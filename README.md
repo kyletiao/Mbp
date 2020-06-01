@@ -15,6 +15,3 @@
 **平台提供能力**
 - 1.包含一个主框架,提供基础主数据的管理功能,比如租户,人员,角色,权限,存储等管理
 
-### Mbp接下来会进行微服务架构设计的改进.具体解决方案将采用优秀开源项目Ocelot集成IentityServer4来做.
-- Mbp的前端将暂停开发,学习目前的前端可以参考项目:https://github.com/PanJiaChen/vue-element-admin.
-- Mbp将计划在月内加上API网关.
